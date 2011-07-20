@@ -1,0 +1,11 @@
+Topic Hyperlink: http://gamedev.stackexchange.com/questions/14918/what-is-the-purpose-of-having-lives
+
+Topic: What is the purpose of having lives?
+
+HOW CAN SOMEONE HAVE FUN IF YOU DONT DIE IN A GAME? Putting Lives in a game makes a person struggle to survive in those "harsh" conditions in the game
+Other than the arcade fun/profitability of limited life or lives/limiting play factor, quite simply lives add tension to the player. For example if
+falling in a hole of a super mario game doesn't do anything... Basically there's no punishment for failing to jump over the hole. But if you fall
+and die and you cant surpass the challenge you will lose making the game more interesting/motivating. After passing the challenge the player
+feels elightened with experience on how to pass the game. The Harder the games are the more interesting the gameplay is for the player to analyze
+how to beat the game. Take note that if the game gets too hard for the player to accomplish then the game gets annoying for the player. So each time 
+a player succeeds... he/she gets to brag(if he wants to) to others.
